@@ -1,2 +1,2 @@
-# drag---drop-component
+# drag-&-drop-component
 drag and drop component - TS exercise
